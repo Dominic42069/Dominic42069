@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dominic42069
+- 👀 I’m interested in maths, python and julia.
+- 🌱 I’m currently learning julia.
